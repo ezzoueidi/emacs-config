@@ -1,0 +1,2 @@
+;;; Generated package description from mexican-holidays.el  -*- no-byte-compile: t -*-
+(define-package "mexican-holidays" "20210604.1421" "Mexico holidays for Emacs calendar." 'nil :commit "8e28907ea69f2c0ed9aad9f3b99664ca147379d0" :authors '(("Saúl Gutiérrez" . "me@sggc.me")) :maintainer '("Saúl Gutiérrez" . "me@sggc.me") :keywords '("calendar") :url "https://github.com/sggutier/mexican-holidays")

@@ -1,0 +1,1 @@
+((ie-holidays :fetcher github :repo "ezzoueidi/ie-holidays") (quelpa-use-package :fetcher git :url "https://github.com/quelpa/quelpa-use-package.git") (swiss-holidays :fetcher github :repo "egli/swiss-holidays"))

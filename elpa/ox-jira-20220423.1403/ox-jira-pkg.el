@@ -1,0 +1,2 @@
+;;; Generated package description from ox-jira.el  -*- no-byte-compile: t -*-
+(define-package "ox-jira" "20220423.1403" "JIRA Backend for Org Export Engine" '((org "8.3")) :commit "00184f8fdef02a3a359a253712e8769cbfbea3ba" :authors '(("Stig Brautaset" . "stig@brautaset.org")) :maintainer '("Stig Brautaset" . "stig@brautaset.org") :keywords '("outlines" "hypermedia" "wp") :url "https://github.com/stig/ox-jira.el")
