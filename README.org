@@ -1,4 +1,5 @@
 # My Emacs configuration files
+* My Emacs configuration files
 
 The init.org is the configuration file with full commentary.
 
