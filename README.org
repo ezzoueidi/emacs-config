@@ -1,0 +1,8 @@
+# My Emacs configuration files
+
+The init.org is the configuration file with full commentary.
+
+See init.el for the resulting configuration file which is loaded by Emacs. This file is generated automatically from init.org using Org-mode.
+
+See custom.el for all the settings maintained through Emacs’ customization mechanism. Some of these values are set in my init file, others are set by hand.
+
